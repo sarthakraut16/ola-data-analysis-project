@@ -1,7 +1,4 @@
-# Re-defining the README content and saving the file
-
-readme_content = """
-# Power BI Dashboard: Analysis of July Bookings Data
+# Power BI Dashboard: Analysis of OLA Bookings Data
 
 This project showcases an end-to-end analysis of the "July Bookings" dataset using **SQL**, **Excel**, and **Power BI**. The dashboard visualizes key business metrics and provides actionable insights into bookings, revenue, customer preferences, and travel patterns.
 
@@ -64,7 +61,21 @@ Driver_Ratings and Customer_Rating: Ratings given by drivers and customers.
 ## Dashboard Snapshots
 ![Screenshot 2024-11-21 144210](https://github.com/user-attachments/assets/ab9820fd-9363-44b5-b39d-0e916183ac26)
 
-Overall Metrics: KPIs for bookings, revenue, and average ratings.
-Revenue Trends: Monthly revenue trends visualized with line charts.
-Customer Insights: Ratings and vehicle preferences.
-Geographical Analysis: Top pickup and drop-off locations.
+![Screenshot 2024-11-21 144232](https://github.com/user-attachments/assets/2c340d0c-f6d5-42b7-a6cd-88a652dc3158)
+
+![Screenshot 2024-11-21 144249](https://github.com/user-attachments/assets/5bbd531f-f51e-4041-81b8-6ad5906924b4)
+
+![Screenshot 2024-11-21 144306](https://github.com/user-attachments/assets/467b0483-0d79-4639-82d3-b1eaf38650ce)
+
+![Screenshot 2024-11-21 144322](https://github.com/user-attachments/assets/5833989b-1824-4bbc-90de-5a410473ccdd)
+
+- Overall Metrics: KPIs for bookings, revenue, and average ratings.
+- Revenue Trends: Monthly revenue trends visualized with line charts.
+- Customer Insights: Ratings and vehicle preferences.
+- Geographical Analysis: Top pickup and drop-off locations.
+
+## Installation and Usage
+### To View the Dashboard:
+- Clone this repository: git clone https://github.com/sarthakraut16/ola-data-analysis-project.git
+- Open the BookingsDashboard.pbix file in Power BI Desktop.
+- Interact with the dashboard using slicers and filters.
