@@ -47,15 +47,15 @@ This project involved the following steps:
 ## Dataset Description
 The dataset contains 103,024 entries with the following columns:
 
-Date & Time: Date and time of the booking.
-Booking_ID: Unique identifier for each booking.
-Booking_Status: Status of the booking (e.g., Success, Canceled by Driver).
-Customer_ID: Unique identifier for the customer.
-Vehicle_Type: Type of vehicle used (e.g., Prime Sedan, Bike).
-Pickup_Location and Drop_Location: Travel origins and destinations.
-Booking_Value: Revenue generated per booking.
-Ride_Distance: Distance traveled (in km).
-Driver_Ratings and Customer_Rating: Ratings given by drivers and customers.
+- Date & Time: Date and time of the booking.
+- Booking_ID: Unique identifier for each booking.
+- Booking_Status: Status of the booking (e.g., Success, Canceled by Driver).
+- Customer_ID: Unique identifier for the customer.
+- Vehicle_Type: Type of vehicle used (e.g., Prime Sedan, Bike).
+- Pickup_Location and Drop_Location: Travel origins and destinations.
+- Booking_Value: Revenue generated per booking.
+- Ride_Distance: Distance traveled (in km).
+- Driver_Ratings and Customer_Rating: Ratings given by drivers and customers.
 
 
 ## Dashboard Snapshots
