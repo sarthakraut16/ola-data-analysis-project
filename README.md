@@ -77,5 +77,5 @@ The dataset contains 103,024 entries with the following columns:
 ## Installation and Usage
 ### To View the Dashboard:
 - Clone this repository: git clone https://github.com/sarthakraut16/ola-data-analysis-project.git
-- Open the BookingsDashboard.pbix file in Power BI Desktop.
+- Open the OLA Dashboard.pbix file in Power BI Desktop.
 - Interact with the dashboard using slicers and filters.
